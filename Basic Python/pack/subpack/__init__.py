@@ -1,0 +1,1 @@
+print('Hello I am __init__.py file present inside subpack')
